@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6,
+                    -6.9
+                ]
+            },
+            "properties": {
+                "name": "Bandung",
+                "description": "Kota Kembang"
+            }
+        }
+    ]
+}
